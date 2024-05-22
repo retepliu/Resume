@@ -1,4 +1,5 @@
-104履歷上，三個附件作品的程式碼
-- 匯率查詢操作
-- YouBike調度分析
-- 以Selenium抓取遊戲停權名單
+The codes of the attach PDF on 104 Resume
+Please select branches to go to 
+- ExchangeRate Check & Operate
+- YouBike Scheduling Analysis
+- Use Selenium To Grab Game Suspension List
